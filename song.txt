@@ -9,3 +9,4 @@
 Та ясен раз у раз скрипів.
 
 first commit in feature branch
+second commit in feature branch
